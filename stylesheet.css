@@ -1,6 +1,4 @@
-* {
-  box-sizing: border-box;
-}
+
 
 body {
   margin: 0;
@@ -86,7 +84,7 @@ a {
 }
 
 .btn {
-  height: 100px;
+  height: 60px;
   width: 200px;
   padding: 30px 30px;
   font-size: 35px;
