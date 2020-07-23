@@ -15,7 +15,9 @@
     text-align: center;
   }
   
-
+  .top-wrapper h1 {
+    width: 100%;
+    }
   
   .btn {
     width: 100%;
